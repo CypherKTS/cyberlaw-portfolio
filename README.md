@@ -8,7 +8,9 @@ This repository contains a collection of research, case studies, visual material
 
 ## 🔍 Overview of Topics
 
+- 📊 Google Botium Toys Internal Security Audit
 - 📜 U.S. Cybersecurity Law & Policy (including 2023 National Strategy)
+- 🛡️ Cybersecurity Policy Implementation (NexusTech Plan)
 - 🏛️ Regulatory Acts (e.g., TAKE IT DOWN Act)
 - ☁️ Cloud Security & Breaches (e.g., Capital One)
 - 🎣 Phishing & User Awareness (e.g., Google Phishing Test)
@@ -16,7 +18,6 @@ This repository contains a collection of research, case studies, visual material
 - 🌍 Global Legal Comparisons (e.g., GDPR, NIS2, India IT Rules)
 - 🕵️‍♂️ Cybercrime & Surveillance
 - 📅 Historical Cyberlaw Timeline
-- 🛡️ Cybersecurity Policy Implementation (NexusTech Plan)
 
 ---
 
@@ -24,7 +25,9 @@ This repository contains a collection of research, case studies, visual material
 
 | Title                                         | Type            | Summary |
 |----------------------------------------------|------------------|---------|
+| **Google Botium Toys Internal Security Audit** | Audit           |  IT security audit for Google Cybersecurity Certificate, assessing risks, PCI DSS, GDPR compliance. |
 | **U.S. National Cybersecurity Strategy (2023) Analysis** | Report           | Stakeholder and economic impact analysis of the newest national strategy |
+| **NexusTech Cybersecurity Policy Implementation Plan**  | Policy Framework | A phased, standards-aligned cybersecurity policy for a fictional company (NexusTech), covering threats like phishing, ransomware, insider risks, and AI-driven attacks (e.g., deepfakes, vishing). Includes compliance with ISO 27001, NIST, and GDPR, tailored to a Microsoft Azure environment. |
 | **Capital One Breach & Cloud Security Lessons**         | Report           | Breakdown of the breach and cloud misconfigurations involved |
 | **Balancing Cybersecurity & Economic Growth**           | Essay            | Exploration of policy tension between innovation and regulation |
 | **Google Phishing Test Analysis**                       | Report           | Evaluation of internal phishing tests and their ethical implications |
@@ -34,7 +37,6 @@ This repository contains a collection of research, case studies, visual material
 | **U.S. Cyberlaw Timeline**                              | Visual           | Chronological timeline of key U.S. cybersecurity legislation |
 | **SolarWinds Supply Chain Attack Infographic**          | Infographic      | Visual breakdown of one of the most impactful cyberattacks |
 | **Cybercrime Spotlight**                                | Slideshow        | Presentation on types of cybercrime and their impact |
-| **NexusTech Cybersecurity Policy Implementation Plan**  | Policy Framework | A phased, standards-aligned cybersecurity policy for a fictional company (NexusTech), covering threats like phishing, ransomware, insider risks, and AI-driven attacks (e.g., deepfakes, vishing). Includes compliance with ISO 27001, NIST, and GDPR, tailored to a Microsoft Azure environment. |
 
 ---
 
@@ -53,5 +55,5 @@ This repository contains a collection of research, case studies, visual material
 
 ## 👋 Author
 
-This project was created as part of independent research in cybersecurity law and policy.
+Uzair Khan, 2025. This project was created as part of independent research in cybersecurity law and policy.
 
