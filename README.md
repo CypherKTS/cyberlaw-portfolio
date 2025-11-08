@@ -8,7 +8,7 @@ This repository contains a collection of research, case studies, visual material
 
 ## 🔍 Overview of Topics
 
-- 📊 Google Botium Toys Internal Security Audit
+- 📊 Google Security Controls and Compliance Internal Audit
 - 📜 U.S. Cybersecurity Law & Policy (including 2023 National Strategy)
 - 🛡️ Cybersecurity Policy Implementation (NexusTech Plan)
 - 🏛️ Regulatory Acts (e.g., TAKE IT DOWN Act)
@@ -25,7 +25,7 @@ This repository contains a collection of research, case studies, visual material
 
 | Title                                         | Type            | Summary |
 |----------------------------------------------|------------------|---------|
-| **Google Botium Toys Internal Security Audit** | Audit           |  IT security audit for Google Cybersecurity Certificate, assessing risks, PCI DSS, GDPR compliance. |
+| **Google Security Controls and Compliance Internal Audit** | Audit           |  IT security audit for Google Cybersecurity Certificate, assessing risks, PCI DSS, GDPR compliance. |
 | **U.S. National Cybersecurity Strategy (2023) Analysis** | Report           | Stakeholder and economic impact analysis of the newest national strategy |
 | **NexusTech Cybersecurity Policy Implementation Plan**  | Policy Framework | A phased, standards-aligned cybersecurity policy for a fictional company (NexusTech), covering threats like phishing, ransomware, insider risks, and AI-driven attacks (e.g., deepfakes, vishing). Includes compliance with ISO 27001, NIST, and GDPR, tailored to a Microsoft Azure environment. |
 | **Capital One Breach & Cloud Security Lessons**         | Report           | Breakdown of the breach and cloud misconfigurations involved |
