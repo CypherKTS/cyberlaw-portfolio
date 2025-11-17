@@ -1,14 +1,14 @@
-## Cybersecurity Policy Implementation Plan for "NexusTech"
+# Cybersecurity Policy Implementation Plan for "NexusTech"
 
 As the CISO/GRC Specialist tasked with creating a new cybersecurity policy for NexusTech, I want to create a comprehensive policy that can be implemented in phases to protect company digital assets, maintain regulatory compliance with key industry standards such as ISO 27001, NIST, and GDPR, and ensure business continuity. This policy targets key threats such as phishing, ransomware, insider threats, unauthorized access, and advanced AI-related threats such as deepfakes and vishing. 
 
 Note: NexusTech already uses many of Microsoft Azure's core platforms.
 
-#### Foreword
+## Foreword
 
 Below, I have outlined the key frameworks and playbooks that NexusTech should adhere to. While they may appear straightforward, they are designed for ease of implementation and when followed, they will strengthen our security posture and reduce risk across the organization. 
 
-#### A. 5-Step Key Process of the KTS Cybersecurity Policy
+## A. 5-Step Key Process of the KTS Cybersecurity Policy
 
 **I. Identity and Access Management:**
 
@@ -30,7 +30,7 @@ We will use key playbooks and frameworks including Microsoft's recommendations t
 
 Microsoft Sentinel and/or Splunk will be used for continious monitoring as our primary SIEM tool. We will retain logs for up to 12 months in an achieved storage tier. 
 
-#### B. Successful Policy Implementation Steps
+## B. Successful Policy Implementation Steps
 
 **I. Security Alignment**
 
@@ -48,13 +48,14 @@ NexusTech will make policies effective in phases following the steps outlined in
 
 NexusTech will conduct internal audits 60 days after each rollout phase and gather employee feedback and metrics for policy effectiveness. 
 
-#### C. Strategies for Overcoming Potential Challenges
+## C. Strategies for Overcoming Potential Challenges
 
 **Engagement:** NexusTech will hold open company Q\&A sessions and used gamified learning platforms such as the "NexusTech Employee Hub" offering employees incentives such as PTO and rewards for challenges completed. We will recognize departments that are excelling in cybersecurity based challenges and hub missions. 
 
 **Budget Limitations:** NexusTech will prioritize Azure-native tools within existing Microsoft agreements and consider low-cost community training resources such as Microsoft Learn and NIST CSF. 
 
 **Technical Barriers and Fatigue:** NexusTech will pilot tools like Microsoft Sentinel with smaller groups before wider implementation and implement policies in phases to ensure more realistic implementation. 
+
 
 
 
