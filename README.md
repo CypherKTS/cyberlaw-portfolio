@@ -56,5 +56,5 @@ This repository contains a collection of research, case studies, visual material
 
 ## 👋 Author
 
-Uzair Khan, 2025. This project was created as part of independent research in cybersecurity law and policy.
+Uzi K., 2025. This project was created as part of independent research in cybersecurity law and policy.
 
