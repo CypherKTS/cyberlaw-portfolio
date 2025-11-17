@@ -38,7 +38,6 @@ This repository contains a collection of research, case studies, visual material
 | **Global Cyberlaw Comparison**                          | Research Paper   | Side-by-side analysis of international cybersecurity laws |
 | **U.S. Cyberlaw Timeline**                              | Visual           | Chronological timeline of key U.S. cybersecurity legislation |
 | **SolarWinds Supply Chain Attack Infographic**          | Infographic      | Visual breakdown of one of the most impactful cyberattacks |
-| **Cybercrime Spotlight**                                | Slideshow        | Presentation on types of cybercrime and their impact |
 
 ---
 
