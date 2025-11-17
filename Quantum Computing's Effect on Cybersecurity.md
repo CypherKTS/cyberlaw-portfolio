@@ -1,4 +1,4 @@
-# How Quantum Computing Will Revolutionize Cybersecurity and Encryption
+#  How Quantum Computing Will Revolutionize Cybersecurity and Encryption
 
 Written by Uzair Khan, B.S. Cybersecurity, minor in Computer Science
 
@@ -92,15 +92,15 @@ Like AI and robotics, nations that reach quantum computing for decryption first 
 
 ## IV. Solutions and Countermeasures
 
-###### **Quantum-readiness roadmaps and inventory:** 
+##### **Quantum-readiness roadmaps and inventory:** 
 
 Organizations should begin to formally migrate to a post-quantum era by identifying and replacing vulnerable cryptography, researching breakthroughs in quantum computing, and partnering with nearby quantum research laboratories. Organizations should create a full inventory of algorithms, protocols, and other cryptographic metrics that RSA uses to improve its security awareness.
 
-###### **Elastic Cryptographic Approach:** 
+##### **Elastic Cryptographic Approach:** 
 
 Organizations should design their systems to be able to change algorithms quickly according to the National Institute of Standards and Technology (NIST) post-quantum standards. They should also adopt a hybrid approach similar to hybrid cloud computing in which they can combine classical and post-quantum computing (PQC) systems to preserve their security posture. NIST has created quantum-resistant algorithms that can resist both classical and quantum attacks. Organizations should research ways to include these more resistant algorithms.
 
-###### **Quantum-Resistant Key Exchange Strategies:** 
+##### **Quantum-Resistant Key Exchange Strategies:** 
 
 To prepare for Q-day, the point at which quantum computers become powerful enough to break current cryptography standards, organizations can implement a concept called Quantum Key Distribution (QKD). QKD uses physics principles to secure communications. It uses a no-cloning theorem to ensure that any attempt at eavesdropping can be detected right away. This provides a secure method for exchanging cryptographic keys. By integrating QKD into existing networks and systems, organizations can create a multi-layered defense against the cybersecurity threats posed by quantum computers (Science News).
 
@@ -137,4 +137,5 @@ How a Quantum Computer Could Break 2048-Bit RSA Encryption in 8 Hours, MIT Techn
 
 
 Quantum Computing | Argonne National Laboratory, U.S. Department of Energy, www.anl.gov/mcs/quantum-computing. Accessed 17 Nov. 2025. 
+
 
