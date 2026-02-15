@@ -29,6 +29,7 @@ This repository contains a collection of research, case studies, visual material
 | **Google Security Controls and Compliance Internal Audit** | Audit           |  IT security audit for Google Cybersecurity Certificate, assessing risks, PCI DSS, GDPR compliance. |
 | **U.S. National Cybersecurity Strategy (2023) Analysis** | Report           | Stakeholder and economic impact analysis of the newest national strategy |
 | **NexusTech Cybersecurity Policy Implementation Plan**  | Policy Framework | A phased, standards-aligned cybersecurity policy for a fictional company (NexusTech), covering threats like phishing, ransomware, insider risks, and AI-driven attacks (e.g., deepfakes, vishing). Includes compliance with ISO 27001, NIST, and GDPR, tailored to a Microsoft Azure environment. |
+| **Small Medical Office MFA & Security Plan** | Policy Framework | MFA and layered security design for a small medical office, combining Windows Hello, Microsoft Authenticator, physical security, and an optional Bitwarden password manager. |
 | **Quantum Computing's Effect on Cybersecurity**         | Research & Analysis   | Exploration of how quantum computing affects cybersecurity, including encryption risks, QKD, and strategies for quantum readiness. |
 | **Capital One Breach & Cloud Security Lessons**         | Report           | Breakdown of the breach and cloud misconfigurations involved |
 | **Balancing Cybersecurity & Economic Growth**           | Essay            | Exploration of policy tension between innovation and regulation |
