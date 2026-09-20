@@ -16,6 +16,7 @@ This repository contains a collection of policies, plans, research, case studies
 - ☁️ Cloud Security & Breaches (Capital One)
 - 🎣 Phishing & User Awareness (Google Phishing Test)
 - 🔐 Ethics in Cybersecurity (Custom Code of Ethics)
+- 🏥 Healthcare Cybersecurity, HIPAA, AI, Robotics & Medical Humanities
 - 🌍 Global Legal Comparisons (GDPR, NIS2, India IT Rules)
 - 🕵️‍♂️ Cybercrime & Surveillance
 - 📅 Historical Cyberlaw Timeline
@@ -29,6 +30,7 @@ This repository contains a collection of policies, plans, research, case studies
 | [**Google Security Controls and Compliance Internal Audit**](https://github.com/CypherKTS/cyberlaw-portfolio/blob/main/Policy-and-Audit/Google%20Security%20Controls%20and%20Compliance%20Audit.pdf) | Audit           |  IT security audit for Google Cybersecurity Certificate, assessing risks, PCI DSS, GDPR compliance. |
 | [**NexusTech Cybersecurity Policy Implementation Plan**](https://github.com/CypherKTS/cyberlaw-portfolio/blob/main/Policy-and-Audit/CISO%20Cybersecurity%20Policy.md)  | Policy Framework | A phased, standards-aligned cybersecurity policy for a fictional company (NexusTech), covering threats like phishing, ransomware, insider risks, and AI-driven attacks (e.g., deepfakes, vishing). Includes compliance with ISO 27001, NIST, and GDPR, tailored to a Microsoft Azure environment. |
 | [**Medical Office MFA & Security Plan**](https://github.com/CypherKTS/cyberlaw-portfolio/blob/main/Policy-and-Audit/Multi-Factor%20Authentication%20Design%20Policies%20for%20Medical%20Facility.pdf) | Policy Framework | MFA and layered security design for a small medical office, combining Windows Hello, Microsoft Authenticator, physical security, and an optional Bitwarden password manager. |
+| [**AI, Robotics, and Cybersecurity in Healthcare**](https://github.com/CypherKTS/cyberlaw-portfolio/blob/main/Research-Reports/AI%2C%20Robotics%2C%20and%20Cybersecurity%20in%20Healthcare%2C%20Medical%20Humanities.pdf) | Research & Presentation | Examines AI and robotics in modern medicine, including their benefits, risks, and cybersecurity, privacy, and ethical considerations. Includes original essays and a case study on **Moxi robots at Endeavor Health in Naperville, IL.**. |
 | [**Quantum Computing's Effect on Cybersecurity**](https://github.com/CypherKTS/cyberlaw-portfolio/blob/main/Research-Reports/Quantum%20Computing's%20Effect%20on%20Cybersecurity.md)         | Research & Analysis   | Exploration of how quantum computing affects cybersecurity, including encryption risks, QKD, and strategies for quantum readiness. |
 | **Mastercard Internal Phishing Awareness Campaign**    | Project           | Phishing email simulation and Mastercard company phishing awareness campaign creation for Mastercard's Security Awareness team with certificate from Mastercard. |
 | [**Balancing Cybersecurity & Economic Growth**](https://github.com/CypherKTS/cyberlaw-portfolio/blob/main/Research-Reports/Cybersecurity%20Risk%20Management%20Analysis.md)           | Essay            | Exploration of policy tension between innovation and regulation |
